@@ -108,16 +108,13 @@ npm install --force
 ```sh
 npx expo start
 ```
-### 🏠 Home Screen
-Displays the list of available matches with odds.
+### 🏠 Home Screen &  🏆 Bet Screen
+Displays the list of available matches with odds. & Allows users to place bets on selected matches.
 
-![Home Screen](./frontend/assets/images/Screenshot_1740574113.png)
-<img src="./frontend/assets/home-screen.png" alt="Home Screen" width="400"/>
-
-### 🏆 Bet Screen
-Allows users to place bets on selected matches.
-
-![Bet Screen](./frontend/assets/images/Screenshot_1740574124.png)
+<div style="display: flex; justify-content: center;">
+  <img src="./frontend/assets/images/Screenshot_1740574113.png" alt="Home Screen" width="400"/>
+  <img src="./frontend/assets/images/Screenshot_1740574124.png" alt="Bet Screen" width="400"/>
+</div>
 
 ## 📌 Why React Native + Relay?
 

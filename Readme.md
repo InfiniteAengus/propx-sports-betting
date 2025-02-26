@@ -111,12 +111,12 @@ npx expo start
 ### 🏠 Home Screen
 Displays the list of available matches with odds.
 
-![Home Screen](./assets/images/Screenshot_1740574113.png)
+![Home Screen](./frontend/assets/images/Screenshot_1740574113.png)
 
 ### 🏆 Bet Screen
 Allows users to place bets on selected matches.
 
-![Bet Screen](./assets/images/Screenshot_1740574124.png)
+![Bet Screen](./frontend/assets/images/Screenshot_1740574124.png)
 
 ## 📌 Why React Native + Relay?
 

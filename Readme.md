@@ -112,6 +112,7 @@ npx expo start
 Displays the list of available matches with odds.
 
 ![Home Screen](./frontend/assets/images/Screenshot_1740574113.png)
+<img src="./frontend/assets/home-screen.png" alt="Home Screen" width="400"/>
 
 ### 🏆 Bet Screen
 Allows users to place bets on selected matches.
